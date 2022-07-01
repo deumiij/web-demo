@@ -3,7 +3,7 @@
     <title>Web-Demo</title>
     <link href="https://demiiju.github.io/web-demo/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/web-demo" />
-    <updated>2022-06-29T12:44:39+07:00</updated>
+    <updated>2022-07-01T21:43:23+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://demiiju.github.io/web-demo/this-is-a-test-post.html"/>
         <id>https://demiiju.github.io/web-demo/this-is-a-test-post.html</id>
+            <category term="Test"/>
 
-        <updated>2022-06-29T12:44:39+07:00</updated>
+        <updated>2022-07-01T21:43:23+07:00</updated>
             <summary>
                 <![CDATA[
                     This post is made to test this blog capability to write blog post. This is a Test Video
@@ -27,7 +28,7 @@
             <![CDATA[
                 <p> </p>
 <p>This post is made to test this blog capability to write blog post.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/0VW0GdlDHkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PXChqvQwwQg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>This is a Test Video</p>
             ]]>
         </content>
