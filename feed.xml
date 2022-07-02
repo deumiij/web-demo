@@ -3,12 +3,24 @@
     <title>Web-Demo</title>
     <link href="https://demiiju.github.io/web-demo/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/web-demo" />
-    <updated>2022-07-01T21:43:23+07:00</updated>
+    <updated>2022-07-02T12:48:14+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
     <id>https://demiiju.github.io/web-demo</id>
 
+    <entry>
+        <title>Gallery Post</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://demiiju.github.io/web-demo/gallery-post.html"/>
+        <id>https://demiiju.github.io/web-demo/gallery-post.html</id>
+
+        <updated>2022-07-02T12:27:32+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>This is a Test Post</title>
         <author>
@@ -18,18 +30,20 @@
         <id>https://demiiju.github.io/web-demo/this-is-a-test-post.html</id>
             <category term="Test"/>
 
-        <updated>2022-07-01T21:43:23+07:00</updated>
+        <updated>2022-07-02T12:48:14+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://demiiju.github.io/web-demo/media/posts/1/Box-color.png" alt="Image" />
                     This post is made to test this blog capability to write blog post. This is a Test Video
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<p>This post is made to test this blog capability to write blog post.</p>
+                    <img src="https://demiiju.github.io/web-demo/media/posts/1/Box-color.png" alt="Image" />
+                <p>This post is made to test this blog capability to write blog post.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PXChqvQwwQg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>This is a Test Video</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://source.unsplash.com/gySMaocSdqs/600x300" data-is-external-image="true"  alt="Unsplash computer image with cat"></figure>
             ]]>
         </content>
     </entry>

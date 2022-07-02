@@ -10,11 +10,24 @@
     },
     "items": [
         {
+            "id": "https://demiiju.github.io/web-demo/gallery-post.html",
+            "url": "https://demiiju.github.io/web-demo/gallery-post.html",
+            "title": "Gallery Post",
+            "author": {
+                "name": "demiiju"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-02T12:27:32+07:00",
+            "date_modified": "2022-07-02T12:27:32+07:00"
+        },
+        {
             "id": "https://demiiju.github.io/web-demo/this-is-a-test-post.html",
             "url": "https://demiiju.github.io/web-demo/this-is-a-test-post.html",
             "title": "This is a Test Post",
             "summary": "This post is made to test this blog capability to write blog post. This is a Test Video",
-            "content_html": "<p> </p>\n<p>This post is made to test this blog capability to write blog post.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/PXChqvQwwQg\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>This is a Test Video</p>",
+            "content_html": "<p>This post is made to test this blog capability to write blog post.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/PXChqvQwwQg\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>This is a Test Video</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-is-external-image=\"true\"  alt=\"Unsplash computer image with cat\"></figure>",
+            "image": "https://demiiju.github.io/web-demo/media/posts/1/Box-color.png",
             "author": {
                 "name": "demiiju"
             },
@@ -22,7 +35,7 @@
                    "Test"
             ],
             "date_published": "2022-06-29T12:41:04+07:00",
-            "date_modified": "2022-07-01T21:43:23+07:00"
+            "date_modified": "2022-07-02T12:48:14+07:00"
         }
     ]
 }
