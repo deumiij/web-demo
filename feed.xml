@@ -3,12 +3,28 @@
     <title>Web-Demo</title>
     <link href="https://demiiju.github.io/web-demo/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/web-demo" />
-    <updated>2022-07-02T12:48:14+07:00</updated>
+    <updated>2022-07-02T22:12:13+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
     <id>https://demiiju.github.io/web-demo</id>
 
+    <entry>
+        <title>Loop Cat Dancing</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://demiiju.github.io/web-demo/cat-dancing.html"/>
+        <id>https://demiiju.github.io/web-demo/cat-dancing.html</id>
+
+        <updated>2022-07-02T22:12:13+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="100%" src="https://www.youtube.com/embed/wLkfz10Srxw?&amp;showinfo=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;modestbranding=1&amp;controls=0&amp;playlist=wLkfz10Srxw;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gallery Post</title>
         <author>
@@ -17,9 +33,17 @@
         <link href="https://demiiju.github.io/web-demo/gallery-post.html"/>
         <id>https://demiiju.github.io/web-demo/gallery-post.html</id>
 
-        <updated>2022-07-02T12:27:32+07:00</updated>
+        <updated>2022-07-02T21:19:24+07:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://demiiju.github.io/web-demo/media/posts/2/gallery/Box-color.png" data-size="1920x1080"><img loading="lazy" src="https://demiiju.github.io/web-demo/media/posts/2/gallery/Box-color-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://source.unsplash.com/gySMaocSdqs/600x300" data-size="600x300"><img loading="lazy" src="https://source.unsplash.com/gySMaocSdqs/600x300" data-is-external-image="true"  alt="" width="600" height="300"></a></figure>
+<figure class="gallery__item"><a href="https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80" data-size="1920x2560"><img loading="lazy" src="https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80" data-is-external-image="true"  alt="" width="640" height="853"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>This is a Test Post</title>
@@ -30,7 +54,7 @@
         <id>https://demiiju.github.io/web-demo/this-is-a-test-post.html</id>
             <category term="Test"/>
 
-        <updated>2022-07-02T12:48:14+07:00</updated>
+        <updated>2022-07-02T21:45:02+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://demiiju.github.io/web-demo/media/posts/1/Box-color.png" alt="Image" />
@@ -41,7 +65,7 @@
             <![CDATA[
                     <img src="https://demiiju.github.io/web-demo/media/posts/1/Box-color.png" alt="Image" />
                 <p>This post is made to test this blog capability to write blog post.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PXChqvQwwQg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1tBUsXIkG1A?&amp;autoplay=1&amp;mute=1&amp;enablejsapi=1" allow="autoplay" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>This is a Test Video</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://source.unsplash.com/gySMaocSdqs/600x300" data-is-external-image="true"  alt="Unsplash computer image with cat"></figure>
             ]]>
