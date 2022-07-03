@@ -3,7 +3,7 @@
     <title>Web-Demo</title>
     <link href="https://demiiju.github.io/web-demo/feed.xml" rel="self" />
     <link href="https://demiiju.github.io/web-demo" />
-    <updated>2022-07-03T11:26:47+07:00</updated>
+    <updated>2022-07-03T12:16:36+07:00</updated>
     <author>
         <name>demiiju</name>
     </author>
@@ -14,10 +14,11 @@
         <author>
             <name>demiiju</name>
         </author>
-        <link href="https://demiiju.github.io/web-demo/cat-dancing.html"/>
-        <id>https://demiiju.github.io/web-demo/cat-dancing.html</id>
+        <link href="https://demiiju.github.io/web-demo/cat-dancing/"/>
+        <id>https://demiiju.github.io/web-demo/cat-dancing/</id>
+            <category term="Test"/>
 
-        <updated>2022-07-02T22:12:13+07:00</updated>
+        <updated>2022-07-03T12:16:36+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -30,10 +31,11 @@
         <author>
             <name>demiiju</name>
         </author>
-        <link href="https://demiiju.github.io/web-demo/gallery-post.html"/>
-        <id>https://demiiju.github.io/web-demo/gallery-post.html</id>
+        <link href="https://demiiju.github.io/web-demo/gallery-post/"/>
+        <id>https://demiiju.github.io/web-demo/gallery-post/</id>
+            <category term="Test"/>
 
-        <updated>2022-07-02T21:19:24+07:00</updated>
+        <updated>2022-07-03T12:16:29+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -50,8 +52,8 @@
         <author>
             <name>demiiju</name>
         </author>
-        <link href="https://demiiju.github.io/web-demo/this-is-a-test-post.html"/>
-        <id>https://demiiju.github.io/web-demo/this-is-a-test-post.html</id>
+        <link href="https://demiiju.github.io/web-demo/this-is-a-test-post/"/>
+        <id>https://demiiju.github.io/web-demo/this-is-a-test-post/</id>
             <category term="Test"/>
 
         <updated>2022-07-03T11:26:47+07:00</updated>
