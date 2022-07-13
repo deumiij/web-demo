@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://demiiju.github.io/web-demo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://deumiij.github.io/web-demo/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://demiiju.github.io/web-demo/</loc>
+<loc>https://deumiij.github.io/web-demo/</loc>
 </url>
 <url>
-<loc>https://demiiju.github.io/web-demo/cat-dancing/</loc>
+<loc>https://deumiij.github.io/web-demo/cat-dancing/</loc>
 <lastmod>2022-07-03T12:16:36+07:00</lastmod>
 </url>
 <url>
-<loc>https://demiiju.github.io/web-demo/gallery-post/</loc>
+<loc>https://deumiij.github.io/web-demo/gallery-post/</loc>
 <lastmod>2022-07-03T12:16:29+07:00</lastmod>
 <image:image>
-<image:loc>https://demiiju.github.io/web-demo/media\posts\2/gallery/Box-color-thumbnail.png</image:loc>
+<image:loc>https://deumiij.github.io/web-demo/media\posts\2/gallery/Box-color-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://demiiju.github.io/web-demo/this-is-a-test-post/</loc>
+<loc>https://deumiij.github.io/web-demo/this-is-a-test-post/</loc>
 <lastmod>2022-07-03T11:26:47+07:00</lastmod>
 <image:image>
-<image:loc>https://demiiju.github.io/web-demo/media\posts\1/Box-color.png</image:loc>
+<image:loc>https://deumiij.github.io/web-demo/media\posts\1/Box-color.png</image:loc>
 <image:title><![CDATA[Image]]></image:title>
 </image:image>
 </url>
